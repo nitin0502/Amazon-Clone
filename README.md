@@ -1,2 +1,2 @@
 # Amazon-Clone
-Clone of Amazon home page using HTML and CSS.
+Clone project of Amazon home page using HTML and CSS.
